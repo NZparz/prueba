@@ -26,4 +26,6 @@ graph LR
     end
     
     PyGame --> S[System Sound]
-    Tkinter --> OS[Sistema Operativo]```
+
+    Tkinter --> OS[Sistema Operativo]
+```
