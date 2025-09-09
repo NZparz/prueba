@@ -23,5 +23,6 @@ flowchart TD
     
     M --> N[Lista completamente ordenada]
     N --> O[Actualizar puntero inicio]
+    O --> P[Fin MergeSort]
+```
 
-    O --> P[Fin MergeSort] ```
