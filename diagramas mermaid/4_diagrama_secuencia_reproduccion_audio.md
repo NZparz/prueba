@@ -1,3 +1,4 @@
+```mermaid
 sequenceDiagram
     participant Usuario
     participant GUI
@@ -13,4 +14,4 @@ sequenceDiagram
     PyGame-->>Playlist: reproducción iniciada
     Playlist-->>GUI: confirmación reproducción
     GUI->>GUI: actualizar interfaz
-    GUI-->>Usuario: mostrar canción actual
+    GUI-->>Usuario: mostrar canción actual```

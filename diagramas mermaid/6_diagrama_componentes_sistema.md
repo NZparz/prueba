@@ -1,3 +1,4 @@
+```mermaid
 graph TB
     subgraph Frontend[Interfaz Gráfica]
         GUI[SpotifyStylePlayer]
@@ -36,4 +37,4 @@ graph TB
     
     class GUI,STYLES,CONTROLS front;
     class PL,LL,MS,AM back;
-    class PYGame,TK,OS ext;
+    class PYGame,TK,OS ext;```

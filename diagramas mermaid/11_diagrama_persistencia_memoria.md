@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     APP[Aplicación] --> PL[Playlist]
     PL --> N1[Nodo 1]
@@ -21,4 +22,4 @@ graph LR
         N1 --> DC3[duración: int]
         N1 --> DC4[archivo: String]
         N1 --> DC5[siguiente: Nodo]
-    end
+    end```

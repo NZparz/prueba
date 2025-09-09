@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     U[Usuario] --> UC1[Reproducir canción]
     U --> UC2[Pausar/Reanudar]
@@ -24,4 +25,4 @@ flowchart TD
         DIV --> ORD[Ordenar recursivamente]
         ORD --> FUS[Fusionar mitades]
         FUS --> ORD
-    end
+    end```

@@ -1,3 +1,4 @@
+```mermaid
 graph LR
     subgraph Playlist
         INICIO[inicio] --> N1[Nodo 1<br/>Bohemian Rhapsody]
@@ -11,4 +12,4 @@ graph LR
     N5 -->|siguiente| NULL[NULL]
     
     classDef current fill:#1DB954,color:white;
-    class N3 current;
+    class N3 current;```

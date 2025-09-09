@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Usuario: Click Añadir] --> B[Mostrar diálogo]
     B --> C{Usuario completa datos}
@@ -20,4 +21,4 @@ flowchart TD
     
     G --> B
     D --> Q[Fin]
-    P --> Q
+    P --> Q```

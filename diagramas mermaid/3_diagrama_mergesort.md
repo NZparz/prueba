@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Inicio MergeSort] --> B{Lista vacía o<br/>un elemento?}
     B -->|Sí| C[Retornar lista]
@@ -22,4 +23,4 @@ flowchart TD
     
     M --> N[Lista completamente ordenada]
     N --> O[Actualizar puntero inicio]
-    O --> P[Fin MergeSort]
+    O --> P[Fin MergeSort]```

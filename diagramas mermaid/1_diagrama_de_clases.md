@@ -1,3 +1,5 @@
+
+```mermaid
 classDiagram
     class NodoCancion {
         -String titulo
@@ -66,4 +68,4 @@ classDiagram
     }
 
     Playlist "1" *-- "*" NodoCancion : contiene
-    SpotifyStylePlayer "1" *-- "1" Playlist : utiliza
+    SpotifyStylePlayer "1" *-- "1" Playlist : utiliza```

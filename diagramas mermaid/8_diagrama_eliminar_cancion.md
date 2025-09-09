@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
     A[Usuario: Click Eliminar] --> B{¿Lista vacía?}
     B -->|Sí| C[Mostrar error]
@@ -24,4 +25,4 @@ flowchart TD
     Q --> R[Fin]
     
     C --> R
-    E --> R
+    E --> R```

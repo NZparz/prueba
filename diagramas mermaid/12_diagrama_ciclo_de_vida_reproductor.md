@@ -1,3 +1,4 @@
+```mermaid
 timeline
     title Ciclo de Vida del Reproductor
     section Inicialización
@@ -15,4 +16,4 @@ timeline
     section Finalización
         Detener audio       : Parar reproducción
         Liberar recursos    : Limpiar memoria
-        Cerrar aplicación   : Exit clean
+        Cerrar aplicación   : Exit clean```

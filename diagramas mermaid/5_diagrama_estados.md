@@ -1,3 +1,4 @@
+```mermaid
 stateDiagram-v2
     [*] --> Detenido
 
@@ -22,4 +23,4 @@ stateDiagram-v2
         SiguienteCancion --> [*]
     }
 
-    Reproduciendo --> Finalizacion : tiempo ≥ duración
+    Reproduciendo --> Finalizacion : tiempo ≥ duración```
